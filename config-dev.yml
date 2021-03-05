@@ -11,4 +11,4 @@ spring:
 
 
 config:
- info: pingan.zhihuishequ.com
+ info: pingan.zhihuishequ.com version=1.0
